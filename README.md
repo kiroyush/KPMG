@@ -29,3 +29,5 @@ What are the trends in the underlying data?
 Which customer segment has the highest customer value?
 What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+![1](https://github.com/kiroyush/KPMG/blob/fe795686d1548abb278bc75a301f86435de23059/1.png)
+![2](https://github.com/kiroyush/KPMG/blob/fe795686d1548abb278bc75a301f86435de23059/2.png)
